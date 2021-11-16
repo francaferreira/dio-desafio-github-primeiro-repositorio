@@ -1,0 +1,2 @@
+Link para downloard para Git: https://git-scm.com/downloads
+O Git branch é um terminal estendido para otimizar o uso do Git.
